@@ -1,28 +1,28 @@
-# Javascript教程
+# Javascript Tutorial
 
-#### 介绍
-这是javascript持续更新的教程
+#### introduce
+This is a continuously updated tutorial for javascript
 
-#### 软件架构
+#### Software Architecture
 javascript
 
 
-#### 安装教程
+#### Installation tutorial
 
-1.  下载包解压即可
-2.  运行在你所使用的编译器上面
+1. Just unzip the download package
+2. Run on the compiler you are using
 
-#### 使用说明
+#### Instructions for use
 
-1.  建议边看边学
-2.  不懂得可以在下方留言
+1. It is recommended to watch and learn
+2. If you don’t understand, you can leave a message below
 
-#### 参与贡献
+#### Participate in Contribution
 
-1.  Xu Faxin
-3.  提交代码
+1. Xu Faxin
+3. Submit the code
 
 
-#### 特技
+#### Special effects
 
-1.  javascript语言
+1. javascript language
