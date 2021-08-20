@@ -20,7 +20,6 @@ javascript
 #### Participate in Contribution
 
 1. Xu Faxin
-3. Submit the code
 
 
 #### Special effects
