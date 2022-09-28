@@ -19,7 +19,7 @@ javascript
 
 #### Participate in Contribution
 
-1. Xu Faxin
+1. Linus Shyu
 
 
 #### Special effects
